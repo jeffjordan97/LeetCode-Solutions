@@ -8,7 +8,6 @@ Solutions to a range of LeetCode problems, written in JavaScript.
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Usage](#usage)
 
 ## Introduction
 
